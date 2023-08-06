@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 ## KIM DAE HWI 🐶
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dart,flutter&theme=light)](https://skillicons.dev)
+
