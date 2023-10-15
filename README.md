@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ## KIM DAE HWI 🐶
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,dart,flutter&theme=light)](https://skillicons.dev)
-
